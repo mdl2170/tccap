@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns10111001101" textdirection="ltr" device="false" fontscale="120" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns10111001101" font="Open Sans" controllayout="npnxnanbsnfns10111001101" colorscheme="npxnabnsnfns10111001101" string_table="npxnabnsnfns10111001101" />
+    <layout name="pxabnsnfns10111001101" font="Open Sans" controllayout="pxabnsnfns10111001101" colorscheme="npxnabnsnfns10111001101" string_table="npxnabnsnfns10111001101" />
+    <layout name="npxnabnsnfns10111001101" font="Open Sans" controllayout="npxnabnsnfns10111001101" colorscheme="npxnabnsnfns10111001101" string_table="npxnabnsnfns10111001101" />
+    <layout name="npnxnanbnsnfns10111001101" font="Open Sans" controllayout="npnxnanbnsnfns10111001101" colorscheme="npxnabnsnfns10111001101" string_table="npxnabnsnfns10111001101" />
+    <layout name="pxabnsnfns10111001100" font="Open Sans" controllayout="pxabnsnfns10111001100" colorscheme="npxnabnsnfns10111001101" string_table="npxnabnsnfns10111001101" />
+    <layout name="pnxanbnsnfns10111001101" font="Open Sans" controllayout="pnxanbnsnfns10111001101" colorscheme="npxnabnsnfns10111001101" string_table="npxnabnsnfns10111001101" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Module 1 Introduction to College Advising" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="false">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="linkright" />
+              <listitem name="transcript" value="true" group="linkright" />
+              <listitem name="glossary" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="true">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
+          <option name="search" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111001100">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns10111001101">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x063A6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8AD3FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2E77B8" alpha="100" stop="0" />
+                <color rgb="0x094B8E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8AD3FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2E77B8" alpha="100" stop="0" />
+                <color rgb="0x094B8E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x409ACE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4392D1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x145086" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x063A6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x063A6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x39A1CB" alpha="100" stop="0" />
+                <color rgb="0x154694" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x154694" alpha="100" stop="0" />
+                <color rgb="0x39A1CB" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2F84BC" alpha="100" stop="0" />
+                <color rgb="0x1F5BA3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x053A6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x154B82" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x155EA7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3E98D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1D5E9B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x154B82" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3E98D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x236EA7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x236EA7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x78B6DB" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4FA7D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1D5E9B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8AD3FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1D5E9B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5DA1CE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1D5E9B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1D5E9B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x053A6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8AD3FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3489C3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2160A8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1A6FAA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x165291" alpha="100" stop="0" />
+                <color rgb="0x459CD2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x063A6A" alpha="100" stop="0" />
+                <color rgb="0x053A69" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2F84BC" alpha="100" stop="0" />
+                <color rgb="0x1F5BA4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5DA1CE" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2F84BC" alpha="100" stop="0" />
+                <color rgb="0x1F5BA3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2C7CBB" alpha="100" stop="0" />
+                <color rgb="0x1D5E9B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x063A6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5EA1CE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x063A6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x063A6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C88C0" alpha="100" stop="0" />
+                <color rgb="0x3368AC" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2977B8" alpha="100" stop="0" />
+                <color rgb="0x215DA5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3D9EE5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x2C74B5" alpha="100" stop="0" />
+                <color rgb="0x3181BC" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E4E8C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3489C3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x063A6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8AD3FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1D5E9B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x063A6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x063A6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x39A1CB" alpha="100" stop="0" />
+                <color rgb="0x154694" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x154694" alpha="100" stop="0" />
+                <color rgb="0x39A1CB" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2F84BC" alpha="100" stop="0" />
+                <color rgb="0x1F5BA3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1C599A" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x145086" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4392D1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B6EAB" alpha="100" stop="0" />
+                <color rgb="0x094784" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3D8DCE" alpha="100" stop="0" />
+                <color rgb="0x3D8DCE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2E77B8" alpha="100" stop="0" />
+                <color rgb="0x094B8E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2E77B8" alpha="100" stop="0" />
+                <color rgb="0x094B8E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x063A6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3B85BE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2771B3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3790D7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x2363A9" alpha="100" stop="0" />
+                <color rgb="0x266DB2" alpha="100" stop="128" />
+                <color rgb="0x2363A9" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns10111001101">
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Open Sans">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.5XtRDKKsvnu" displaytext="Module 1: Introduction to College Advising" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5XtRDKKsvnu.6cF46Fsdlo7" displaytext="Title" expand="false" type="slide" />
+            <slidelink slideid="_player.5XtRDKKsvnu.6caMYJLA0jp" displaytext="Module Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.5XtRDKKsvnu.6kIAtl93gy2" displaytext="Type of Educational Models" expand="false" type="slide" />
+            <slidelink slideid="_player.5XtRDKKsvnu.6CWcexQgpPf" displaytext="Introduction to College Advising" expand="false" type="slide" />
+            <slidelink slideid="_player.5XtRDKKsvnu.6n8ZqjBKBZu" displaytext="Purposes of College Advising" expand="false" type="slide" />
+            <slidelink slideid="_player.5XtRDKKsvnu.6J8nXM4bOWl" displaytext="Influence from College Advising" expand="false" type="slide" />
+            <slidelink slideid="_player.5XtRDKKsvnu.634j1JzIcc2" displaytext="Factors that Impact College Advising" expand="false" type="slide" />
+            <slidelink slideid="_player.5XtRDKKsvnu.6GQ3tXrkgoR" displaytext="College Advising Problem" expand="false" type="slide" />
+            <slidelink slideid="_player.5XtRDKKsvnu.6lLFmutgsmO" displaytext="History of College Advising" expand="false" type="slide" />
+            <slidelink slideid="_player.5XtRDKKsvnu.6iBuwqRygkY" displaytext="History of College Advising" expand="false" type="slide" />
+            <slidelink slideid="_player.5XtRDKKsvnu.6OndDDuuUue" displaytext="Roles of College Advisors" expand="false" type="slide" />
+            <slidelink slideid="_player.5XtRDKKsvnu.5cwB4nINkVt" displaytext="Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.5XtRDKKsvnu.5bu2l04HcXt" displaytext="Resources" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="5XtRDKKsvnu.6cF46Fsdlo7" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Welcome to Module One: Introduction to College Advising&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5XtRDKKsvnu.6caMYJLA0jp" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;The topics in this module include: &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;An introduction to College Advising&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;The History of College Advising&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;The Role of the College Advisor&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Please note, for this module, we will be providing a counseling model. However, this model can also be useful for all types of professionals working with students.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5XtRDKKsvnu.6kIAtl93gy2" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;&lt;b&gt;International Baccalaureate (IB) &lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;The IB is a non-profit educational organization that provides programs for international education that focus on intellectual, personal, and social growth. The IB Diploma Program is for students within ages 16 to 19, in the United States and aboard, and provides a framework for rigor and innovation to challenge students and deepen their knowledge of the world. Students use reflection, complete an independent project, and conduct community service. Some colleges will allot students college credit for their IB classes.  Of note, many high schools will offer IB curriculum as well as College Board AP courses. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;&lt;b&gt;Magnet Programs &lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Magnet schools are public schools that attract highly competitive students from across a region through an application process. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;&lt;b&gt;Public, Private, and Charter Schools &lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Public schools are institutions supported by public funds.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Private schools are supported by private individuals, organizations, and religious organizations. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Charter schools are typically defined as publicly funded independent schools that can be created by teachers, parents, or community members. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5XtRDKKsvnu.6n8ZqjBKBZu" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;What do you think are the purposes of college advising? Select all that apply&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5XtRDKKsvnu.6GQ3tXrkgoR" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Students from under-represented groups often enroll in two-year institutions and less selective and resourced four-year colleges, placing these students at an even greater disadvantage. What do you think the reasons might be? Select all that apply.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5XtRDKKsvnu.6iBuwqRygkY" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Click the time periods and programs to learn more about them. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;&lt;b&gt;19th and 20th Century&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Social Events during the 19th and 20th centuries contributed to a strong emphasis placed on vocational counseling. Events such as: &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Industrial Revolution &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;World War I &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Great Depression&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;World War II&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;During this time, it was important to distinguish among people because you had to know who had the skills to fly a plane or to fight in combat. The focus was on classifying people. There was a great emphasis on testing, like Intelligence measures including the IQ test. Tests helped measure intelligence to find individual differences so people could be classified.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;&lt;b&gt;1920s-1950s&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Vocational counselors were often teachers who volunteered to assist students in entering the work world. The primary roles of counselors in schools during this time were to: &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;“Sort” students into the appropriate work pathways.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Encourage teachers to make connections between classroom content and occupations.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Promote character development.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Teach appropriate social behaviors.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Assist with vocational planning.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;There was little emphasis placed on academic remediation and going to college.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;&lt;b&gt;1950s&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Given the lack of emphasis placed on college during the 1950s, there is significantly less information regarding college advising as it relates to school counseling. However, two things occurred. One was the National Defense Act of 1958 that heightened post-secondary education awareness. It provided funding to support secondary school counseling.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;The second was the professional requirements for school counselors (known at the time as guidance counselors) also changed in the 1950s. The American Psychological Association (APA) and American Personnel and Guidance Association (APGA) established distinct standards and requirements for helping professionals, like psychologists and guidance counselors.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;&lt;b&gt;1970s-1980s&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Beginning in the 1970s, education initiatives were geared toward preparing students for heightened academic achievement and post-secondary preparedness. One example, the High School That Works uses research-based strategies integrated into public education systems to facilitate students’ high academic achievement and emphasizes how education environments can impact students’ motivation towards achievement. However, during this time period, school counselors were being trained like mental health counselors, rather than how to guide students academically. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;&lt;b&gt;1990s&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;During the 1990s, an increased skepticism surrounded the need for college counseling and post-secondary advising. There was a stronger emphasis on self-help methods, students doing more on their own rather than with assistance of trained professional, which led to a downsize in federally funded opportunity programs. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;This resulted in a drastic increase in:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;The achievement gap &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Drop-out rates&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Students failing exams&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Source: Erford, B. T. (2015). Becoming a professional school counselor: Current perspectives, historical roots and future challenges. In B. T. Erford (Ed.), Transforming the school counseling profession (4th ed.)(pp. 1-28). Columbus, OH: Pearson Merrill.  &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;&lt;b&gt;Education Trust Impact&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;The Education Trust, an organization founded in the 1990s, sought to determine how to assist all students to succeed academically.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Aimed to reduce the achievement gap &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Acknowledged that school counselors were not well-prepared to help with college access for all students &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Identified contextual barriers that prevented academic success for all students &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Contributed to the development of the ASCA National Model: A Framework for School Counseling Programs, created in 2003, the model provides school counselors and counseling teams with a framework to design, coordinate, implement, manage, and evaluate their programs for students’ success. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;&lt;b&gt;ASCA Model&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Click each of the three parts of the model to learn more about it. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;&lt;b&gt;Transforming School Initiative&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Transforming School Initiative aimed to redefine the focus of school counseling via changes to masters-level training preparation. Unlike their predecessors, who were trained in individual and small-group interventions intended for selected students, Transformed School Counselors were to understand persons, groups and organizations as complex systems that are embedded within a sociocultural context. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;“…School counselors advocate for educational equity, access to a rigorous college and career-readiness curriculum, and academic success for all students” (Education Trust, 2012). It aimed to train school counselors in skills that are needed to remove barriers that impede student achievement (e.g., using data) &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;&lt;b&gt;Alternative Programs&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Despite the majority of college advising occurring in schools, scholars and professionals began to realize that:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;School counselors, who were functioning as academic advisors, schedulers and college advisors, had limited time to devote to each student’s individual needs&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Low-income students and students of color tended to be in high schools that failed to meet their post-secondary education needs&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Alternative forms of college counseling began to emerge during the mid-20th century:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Pre-Collegiate Outreach Programs&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Independent Educational Consultants&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Click each alternative college advising program to learn more about it. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5XtRDKKsvnu.6OndDDuuUue" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Click the buttons to read more about each of the college advisors roles. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5XtRDKKsvnu.5cwB4nINkVt" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;College advisors need to:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Be aware of the history of guidance/counseling and social/political issues impacting future transformations. It is generally helpful to know where one has been when trying to know where one is going.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Use effective techniques and practices implemented through legal, ethical and professional means. This requires one to adhere to the highest standard outlined by the profession.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;And, when applicable, maintain membership in professional organizations at the local, state and national levels. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;. ASCA, ACA, and NACAC are the professional and political forces supporting the mission of professional school counselors at the national level &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;. Counselors have a responsibility to join and support the effort of these three professional organizations. Without doing so, the political and professional voices of school counselors will not be heard as loudly as other helping professions (e.g. , psychologists, social workers) &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5XtRDKKsvnu.5bu2l04HcXt" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;College Advisors must also be knowledgeable about different resources for themselves, other professionals, as well as students and their families throughout the college application process.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Open Sans' size='16.5pt' style="font-size:16.5pt;" color='#ffffff'&gt;Please take some time to navigate and familiarize yourself with the following college advising websites, which can assist you in your future college advising role.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>
