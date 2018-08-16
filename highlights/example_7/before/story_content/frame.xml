@@ -1172,11 +1172,7 @@
   </fonts>
   <sounds enabled="true" />
   <nav_data>
-    <outline>
-      <links>
-        <slidelink slideid="_player.6EhIGkYdVEE.5aTTByQQrKl" displaytext="Adolescent Development" expand="false" type="slide" />
-      </links>
-    </outline>
+    <outline />
   </nav_data>
   <resource_data description="" />
   <transcript_data />
